@@ -1,0 +1,9 @@
+# Ignore the mudenv virtual environment folder
+mudenv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore the .vscode folder (optional)
+.vscode/
